@@ -1,6 +1,6 @@
 {
   "name": "crudtastic",
-  "version": "0.0.1",
+  "version": "0.1",
   "description": "super simple REST api for SQL tables - as easy as Rails",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,7 @@
     "bookshelf": "^1.1.1",
     "bookshelf-case-converter-plugin": "^1.0.0",
     "chalk": "^4.0.0",
+    "errorhandler": "^1.5.1",
     "express": "^4.17.1",
     "knex": "^0.20.13",
     "lodash": "^4.17.15",
