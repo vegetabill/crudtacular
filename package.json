@@ -23,8 +23,14 @@
   },
   "homepage": "https://github.com/vegetabill/crudtastic#readme",
   "dependencies": {
+    "bookshelf": "^1.1.1",
+    "bookshelf-modelbase": "^2.11.0",
     "chalk": "^4.0.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "morgan": "^1.10.0",
+    "morgan-body": "^2.4.8",
+    "pg": "^8.0.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",

@@ -5,6 +5,5 @@ const Server = require('./lib/server');
 module.exports = {
   Model,
   Controller,
-  Server,
-  VERSION: '0.0.1'
+  Server
 };
