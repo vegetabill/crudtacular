@@ -24,6 +24,7 @@
   "homepage": "https://github.com/vegetabill/crudtastic#readme",
   "dependencies": {
     "bookshelf": "^1.1.1",
+    "bookshelf-case-converter-plugin": "^1.0.0",
     "bookshelf-modelbase": "^2.11.0",
     "chalk": "^4.0.0",
     "express": "^4.17.1",

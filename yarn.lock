@@ -324,6 +324,13 @@ body-parser@1.19.0:
     raw-body "2.4.0"
     type-is "~1.6.17"
 
+bookshelf-case-converter-plugin@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/bookshelf-case-converter-plugin/-/bookshelf-case-converter-plugin-1.0.0.tgz#a38ddc87a0002d8b29d28a8654a0f03649a335e6"
+  integrity sha512-RLncgNp+0oV5halYZY/TcabJOJCUJlM52/39N6PViQvl9+htGNXMdaAR6BOe4nOoL3XP9CcJurFglSn5cKXhKQ==
+  dependencies:
+    lodash "^4.17.15"
+
 bookshelf-modelbase@^2.11.0:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/bookshelf-modelbase/-/bookshelf-modelbase-2.11.0.tgz#68f893b30bc5764a1ab594bec4c0d153c7814fdd"
