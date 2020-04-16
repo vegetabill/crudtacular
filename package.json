@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/vegetabill/crudtastic#readme",
   "dependencies": {
+    "bluebird": "^3.7.2",
     "bookshelf": "^1.1.1",
     "bookshelf-case-converter-plugin": "^1.0.0",
     "chalk": "^4.0.0",
