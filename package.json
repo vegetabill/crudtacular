@@ -1,6 +1,6 @@
 {
   "name": "crudtastic",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "super simple REST api for SQL tables - as easy as Rails",
   "main": "index.js",
   "scripts": {
