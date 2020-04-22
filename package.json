@@ -35,7 +35,8 @@
     "morgan": "^1.10.0",
     "morgan-body": "^2.4.8",
     "pg": "^8.0.2",
-    "shortid": "^2.2.15"
+    "shortid": "^2.2.15",
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
